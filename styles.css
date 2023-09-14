@@ -25,3 +25,12 @@ a {
 a:hover{
     text-decoration: underline;
 }
+
+h6 {
+    background-color: black;
+    color: white
+}
+
+h6 a {
+    color: lightblue;
+}
