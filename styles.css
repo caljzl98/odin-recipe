@@ -1,0 +1,19 @@
+body {
+    font-family: Fantasy, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    background-color: beige;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
