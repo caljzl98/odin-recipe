@@ -6,8 +6,16 @@ h1 {
     text-align: center;
 }
 
+p {
+    background-color: antiquewhite;
+}
+
 ul {
     background-color: beige;
+}
+
+ol {
+    background-color: bisque;
 }
 
 a {
